@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Parking</string>
+    <string name="back"><![CDATA[<]]></string>
+    <string name="parking">Parking</string>
+    <string name="check__car">ПРОВЕРИТЬ АВТО</string>
+    <string name="Car_number">Госномер авто</string>
+    <string name="Example">Пример: 01KG777AAA, B5555BA</string>
+    <string name="regist_car">Регистрация Авто</string>
+    <string name="fio">ФИО</string>
+    <string name="model_car">Модель авто</string>
+    <string name="commit">СОХРАНИТЬ</string>
+    <string name="autoRegis">Зарегистрировать авто</string>
+    <string name="park">Паркинг</string>
+    <string name="delete">Удалить</string>
+    <string name="car">Машина:</string>
+    <string name="owner">Владелец:</string>
+    <string name="gosnumber">Госномер:</string>
+    <string name="deleteUpper">УДАЛИТЬ</string>
+</resources>
